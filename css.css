@@ -9,3 +9,8 @@ body {
 img {
     border: 2px solid black;
 }
+
+div {
+    font-size: 352px;
+    color: blue;
+}
